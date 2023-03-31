@@ -1,2 +1,2 @@
 Test.txt Test.txt Test.txt Test.txt Test.txt Test.txt Test.txt
-Test.txt Test.txt Test.txt Test.txt Test.txt Test.txt Test.txt
+Test.txt Test.txt Test.txt << правка во второй транзакции >> Test.txt Test.txt Test.txt Test.txt
